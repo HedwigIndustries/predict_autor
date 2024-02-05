@@ -2,7 +2,7 @@
 
 #### Short description:
 
-this project predicts which of the authors the poetic style of the poem is most similar to.
+This project predicts which of the authors the poetic style of the poem is most similar to.
 
 #### How it works?
 

@@ -1,4 +1,4 @@
-# Solve captcha
+# Predict author
 
 #### Short description:
 
